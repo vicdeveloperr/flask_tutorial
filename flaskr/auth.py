@@ -1,3 +1,5 @@
+""" Módulo de autenticación
+"""
 import functools
 
 from flask import Blueprint
